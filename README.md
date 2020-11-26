@@ -13,6 +13,8 @@ Hardware used:
 * 16x2 I2C LCD screen
 * I2C PN532 RFID scanner
 
+![circuit](https://github.com/ralphcrutzen/YouTube-audio-player/blob/main/images/circuit.png)
+
 Software installation:
 * Raspberry Pi OS Lite
 * I2S support for the Adafruit speaker bonnet
