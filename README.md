@@ -44,3 +44,5 @@ Software installation:
 
 Use the `test*.py` scripts to test the different hardware parts.
 `ytplayer.py` is the main script which brings all together. Put `python3 /home/pi/ytplayer.py &` in `/etc/rc.local` (before the lin `exit 0` to execute this script at startup.
+
+The 'welcome' sound file was downloaded from [freesound.org](https://freesound.org/people/Timbre/sounds/98522/)
